@@ -1,0 +1,9 @@
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW Manipüle.csprojAssemblyReference.cache
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW_Manipüle.Form1.resources
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW_Manipüle.Properties.Resources.resources
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW Manipüle.csproj.GenerateResource.cache
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW Manipüle.csproj.CoreCompileInputs.cache
+C:\Users\0x1dot\source\repos\CW Manipüle\bin\Debug\CW Manipüle.exe
+C:\Users\0x1dot\source\repos\CW Manipüle\bin\Debug\CW Manipüle.pdb
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW Manipüle.exe
+C:\Users\0x1dot\source\repos\CW Manipüle\obj\Debug\CW Manipüle.pdb
